@@ -1,0 +1,4 @@
+teksts = input ("Ievadi tekstu : ")
+def countZeros(teksts):
+  return teksts.count("o")
+print(countZeros(teksts))
