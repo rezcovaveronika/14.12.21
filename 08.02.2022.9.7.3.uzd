@@ -1,0 +1,3 @@
+text = input("Ievadiet tekstu: ")
+count = text * 22
+print ((str(text) + ' ') * 22)
