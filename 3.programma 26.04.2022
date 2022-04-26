@@ -1,0 +1,5 @@
+a = int(input("Ievadiet pirkuma summu: "))
+if a > 200:
+  print(a * 0.1)
+else:
+  print(a)
