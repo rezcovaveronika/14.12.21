@@ -1,0 +1,6 @@
+a = int(input("Ievadiet jebkuru skaitli: "))
+b = int(input("Ievadiet jebkuru skaitli: "))
+if b == 0:
+  print("Ar nulli dalīt nedrīkst")
+else:
+  print(a // b)
