@@ -1,0 +1,5 @@
+num = int(input("Ievadiet jebkuru skaitli: "))
+if (num % 2) == 0:
+  print("ir pāra skaitlis")
+else:
+  print("ir nepāra skaitlis")
